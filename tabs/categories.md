@@ -83,7 +83,7 @@ type: categories
         {% for sub_category in sub_categories %}
         <li class="list-group-item">
           <i class="far fa-folder fa-fw"></i>
-          <a href="{{ site.baseurl }}/categoriy/{{ sub_category | replace: ' ', '-' | downcase | url_encode }}/"
+          <a href="{{ site.baseurl }}/categoriy/{{ sub_category | replace: ' ', '-' | downcase | url_encode }}/index.html"
             class="ml-1 mr-2">{{ sub_category }}</a>
           {% assign posts_size = site.categories[sub_category] | size %}
           <span class="text-muted small font-weight-light">{{ posts_size }}
