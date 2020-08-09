@@ -322,7 +322,3 @@ $$ O(1) - O(logn) - O(n) - O(nlogn) - O(n^2) - O(n^3) - O(2^n) $$
   ![Desktop View]({{ "/assets/img/algorithm/YSU/datastructure1/bigograph.jpg" | relative_url }})
 
 <출처 : http://media.photobucket.com/image/o%20notation/amit_9b/BIGO_GRAPH.jpg>
-
-### 순차 탐색 알고리즘과 이진 탐색 알고리즘의 비교
-
-### 빅-오에 대한 수학적 접근
