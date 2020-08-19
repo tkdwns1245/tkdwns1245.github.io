@@ -1,5 +1,5 @@
 ---
-title: (윤성우 Chapter2)재귀(Recursion)
+title: (backjoon)1074재귀(Recursion)
 author: SSJ
 date: 2020-08-08 19:00:00 +0800
 categories: [Algorithm, exercise]
