@@ -24,6 +24,16 @@
   url: archives
   icon: "fas fa-archive"
 -
+  name: "Project"
+  path: tabs
+  url: archives
+  icon: "fas"
+-
+  name: "Culture"
+  path: tabs
+  url: archives
+  icon: "fas"
+-
   name: "About"
   icon: "fas fa-info"
   path: tabs
